@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,CACH,gBAAgB,CAAE,IAAI,CACtB,KAAK,CAAE,IAAI",
+"sources": ["../../sass/ejemplo.sass"],
+"names": [],
+"file": "ejemplo.css"
+}
